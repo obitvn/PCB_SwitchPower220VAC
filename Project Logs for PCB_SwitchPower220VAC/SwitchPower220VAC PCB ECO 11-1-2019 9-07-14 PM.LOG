@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=220V_OUT_N Pin=*1-3
+Removed Pin From Net: NetName=220V_OUT_L Pin=*1-4
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=OUT_STT Pin=C2-2
+Removed Pin From Net: NetName=OUT_STT Pin=R1-1
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=OUT_STT Pin=U1-4
+Removed Member From Class: ClassName=SwitchPower220VAC Member=*1
+Removed Member From Class: ClassName=SwitchPower220VAC Member=C1
+Removed Member From Class: ClassName=SwitchPower220VAC Member=C2
+Removed Member From Class: ClassName=SwitchPower220VAC Member=R1
+Removed Member From Class: ClassName=SwitchPower220VAC Member=R2
+Removed Member From Class: ClassName=SwitchPower220VAC Member=U1
+Added Room: Name=SwitchPower220VAC

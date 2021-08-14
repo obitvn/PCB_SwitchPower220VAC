@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=220V_N Pin=J3-2
+Removed Pin From Net: NetName=220V_OUT_N Pin=J4-1
+Added Pin To Net: NetName=220V_OUT_N Pin=J3-2
+Added Pin To Net: NetName=220V_N Pin=J4-1
